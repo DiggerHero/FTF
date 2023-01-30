@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <meta name="description" content="Recipes and ranting.  Too many hungry mouths to feed, too little time.">
+  <meta name="keywords" content="Recipes, Recipe, Cooking for Kids, Cooking for Children, Feeding the Five, Borresen, Jon Borresen">
+  <title>Website Title</title>
+  <link href="FTFMar.css" rel="stylesheet" type="text/css" >
+</head>
+<body>
+
+
+<img src="Dinner1_1.JPG" title="Salmon with Tortelloni and Asparagus" alt="" align="right" style="width: 333px; height: 250px;">
+
+<div style="text-align: center;"><br><br>
+<big><big><big><font color="#99003D">Title</font></big></big></big></div>
+<div style="text-align: left;"><br><br><br>
+<br><br><big><font color="#800080">Friday 1/2/2013</font><br><br>
+
+<span style="text-decoration: underline;">Back to Feeding The Five</span>
+(<a href="http://www.12rowan.org.uk/jonB/FTF/FTF.html">click here</a>)</big>
+
+
+
+<br><br><br><font face="Verdana"><font size=-1><b><font color="#0000FF">Diary and Notes</font></b><br><br>
+
+
+
+
+
+
+<br><div style="text-align: center;">***************************************</div><br>
+<br><br><br>
+<img src="Dessert1_1.JPG" title="Salmon with Tortelloni and Asparagus" alt="" align="right" style="width: 250px; height: 167px;">
+<a name="recipes"></a>
+<font face="Arial,Helvetica"><font size=-1><b><font color="#00FF00">Menu</font></b>
+<li> 
+<br><br>
+
+
+<br><br><br><font face="Arial,Helvetica"><font size=-1><b><font color="#E066FF">Ingredients</font>*</b><br><br>
+  <table style="width: 80%; text-align: left;" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+	<td style="vertical-align: top;"><font size="2"><b>Pan Fried Salmon</b><br>
+	3 Salmon Fillets<br>
+	<br>
+	</td>
+    </tbody>
+  </table> 
+<br>
+ 
+
+<br><font face="Arial,Helvetica"><font size=-1><b><font color="#FF6103">Preparation</font></b><br><br>
+
+
+<li> 
+
+
+<br><br>Today’s Ratings:<br><br>
+Isis:  Raviolo - Yum, Yuna, took a big bite and spat it out - Yuk.<br>
+Eve: Yuk.<br>
+Olias:  Yum. 
+
+<br><br><div style="text-align: center;">*****************************************************</div><br><br>
+
+<small>*All quantities are very approximate and for a family of 5 (2 adults, 3 kids aged 5 years, 3 years & 8 months)</small>
+
+<!-- begin htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
+ <script type="text/javascript" language="javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){s=document.createElement("script");s.setAttribute("type","text/javascript");s.setAttribute("src", "http://www.htmlcommentbox.com/jread?page="+escape((window.hcb_user && hcb_user.PAGE)||(""+window.location)).replace("+","%2B")+"&mod=%241%24wq1rdBcg%241h28D3wueeWxVX59IHAiu."+"&opts=0&num=10");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end htmlcommentbox.com -->
+
+<br>
+</font></font>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="JonBorresen">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<br><br>
+JCBorresen@GMail.com
+<br><br><br><br><br><br>
+</div>
+</body>
+</html>
